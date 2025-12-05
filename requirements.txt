@@ -1,0 +1,7 @@
+faster-whisper
+SpeechRecognition
+pyaudio
+pyttsx3
+sounddevice
+scipy
+kivy[full]
