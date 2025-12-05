@@ -80,7 +80,7 @@ Alternative: VB-Audio Virtual Cable
 
 ⸻
 
-Ubuntu (PipeWire)
+### Ubuntu (PipeWire)
 
 PipeWire automatically exposes monitor sources:
 
